@@ -1,11 +1,6 @@
-### Hi there 👋
+# Olá 👋, eu sou o Miguel!
 
-<!--
-**miguelmachadofs/miguelmachadofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Banrisul
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Status github do Miguel](https://github-readme-stats.vercel.app/api?username=miguelmachadofs&show_icons=true&theme=radical)
+
+[![Perfil Rocketseat](https://img.shields.io/badge/-Perfil%20Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/miguelmachadofs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/miguelmfs/)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://www.twitter.com/miguelmachadofs)
