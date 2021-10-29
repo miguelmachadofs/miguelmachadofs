@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Miguel!
 
-- 🔭 I’m currently working on Banrisul
-- 🌱 I’m currently learning ...
+- 🔭 Trabalho atualmente no Banrisul
+- 🌱 Estou estudando HTML5, CSS, JavaScript, C# e .NET Framework
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,5 @@
 [![Perfil Rocketseat](https://img.shields.io/badge/-Perfil%20Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/miguelmachadofs)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/miguelmfs/)
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://www.twitter.com/miguelmachadofs)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachadofs&layout=compact&langs_count=7&theme=dark)
