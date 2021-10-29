@@ -18,6 +18,7 @@
 ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-060606?style=flat&labelColor=0D0D0D&logo=.NET&Color=white&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-060606?style=flat&labelColor=0D0D0D&logo=CPlusPlus&Color=white&logoColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-060606?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-060606?style=flat&logo=visual-studio&logoColor=8A2BE2)
 ![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=github)
 
 <br></br>
