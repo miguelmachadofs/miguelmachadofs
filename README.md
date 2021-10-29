@@ -19,8 +19,8 @@
 ## ⚙ &nbsp;Detalhes do perfil
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmachadofs&show_icons=true&theme=dark" alt="Status github do Miguel"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachadofs&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=miguelmachadofs&show_icons=true&theme=dark" alt="Status github do Miguel"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachadofs&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
 </div>
 
 <br></br>
