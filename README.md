@@ -14,9 +14,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-060606?style=flat&labelColor=0D0D0D&logo=HTML5&Color=white)
 ![CSS](https://img.shields.io/badge/-CSS-060606?style=flat&labelColor=0D0D0D&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&labelColor=0D0D0D&logo=JavaScript&Color=white)
-<br></br>
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-060606?style=flat&labelColor=0D0D0D&logo=CSharp&Color=white&logoColor=8A2BE2)
 ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-060606?style=flat&labelColor=0D0D0D&logo=.NET&Color=white&logoColor=blue)
+![C++](https://img.shields.io/badge/-C++-060606?style=flat&labelColor=0D0D0D&logo=CPlusPlus&Color=white&logoColor=blue)
 <br></br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-060606?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-060606?style=flat&logo=visual-studio&logoColor=8A2BE2)
