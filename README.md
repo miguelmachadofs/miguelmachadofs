@@ -35,15 +35,7 @@
 
 ## 👦🏻 &nbsp;Mídias Sociais e Contato
 
-<a href="https://www.linkedin.com/in/miguelmfs/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white" alt="LinkedIn">
-</a>
-<a href="mailto:miguelmfs121@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=Gmail&Color=white" alt="Gmail">
-</a>
-<a href="https://www.twitter.com/miguelmachadofs/" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white" alt="Twitter">
-</a>
-<a href="https://app.rocketseat.com.br/me/miguelmachadofs" target="_blank">
-  <img src="https://img.shields.io/badge/-Perfil%20Rocketseat-blueviolet" alt="Perfil Rocketseat">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/miguelmfs/)
+[![Gmail](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=Gmail&Color=white)](mailto:miguelmfs121@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://www.twitter.com/miguelmachadofs/)
+[![Perfil Rocketseat](https://img.shields.io/badge/-Perfil%20Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/miguelmachadofs)
