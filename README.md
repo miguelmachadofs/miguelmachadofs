@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
-- 🔥  DEV iniciante, cursando Ciência da Computação e aluno da [Rocketseat](https://github.com/Rocketseat)
-- 🔭 Trabalho atualmente como estagiário no Banrisul
-- 🦾 Gosto de um bom treino nas horas vagas
+- 🔥  DEV iniciante, cursando os últimos semestres de Ciência da Computação e aspirante à Júnior.
+- 🔭 Atualmente em busca de uma nova oportunidade, após um estágio de 2 anos.
+- 🦾 Gosto de um bom treino nas horas vagas, uma leitura interessante e um filme com uma história inspiradora.
 
 <br></br>
 
